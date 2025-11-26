@@ -1,8 +1,5 @@
 # Ansible Role: vector-role
 
-[![Ansible Role](https://img.shields.io/ansible/role/d/54134)](https://galaxy.ansible.com/ui/standalone/roles/wiqt8r/vector-role)
-[![GitHub release](https://img.shields.io/github/v/release/wiqt8r/vector-role)](https://github.com/wiqt8r/vector-role/releases)
-
 Роль для автоматизированной установки и настройки [Vector](https://vector.dev/) — высокопроизводительного инструмента для сбора, обработки и передачи логов и метрик.
 
 ## Описание роли
